@@ -1,6 +1,7 @@
 # 💭 About Me:
 Passionate about automating processes. <br>Currently working as RPA UIPATH developer, learning python, php and other tools that help me automate repetitive and annoying processes.
 <br> 
+<br>
 <i>Hate it? Automate it.</i>
 <br>
 <img src="https://64.media.tumblr.com/e92a9472c0062f530e139d1d86abc620/tumblr_ou6ys7IwmU1w86w6ho1_1280.gif" width="512px"/>
